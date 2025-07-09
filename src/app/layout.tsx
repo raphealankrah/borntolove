@@ -3,7 +3,7 @@ import "./globals.css";
 import { Bebas_Neue, Climate_Crisis } from 'next/font/google';
 
 const bebasNeue = Bebas_Neue({ subsets: ['latin'], weight: '400' });
-const climateCrisis = Climate_Crisis({ subsets: ['latin'], weight: '400' });
+// const climateCrisis = Climate_Crisis({ subsets: ['latin'], weight: '400' });
 
 export const metadata: Metadata = {
   title: "Create Next App",

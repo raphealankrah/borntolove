@@ -10,10 +10,10 @@ export default function AboutUs() {
                 <div className="font-['Duplet'] bg-[#BE551D] w-full md:w-175 h-auto md:h-110 mb-5 md:mb-0 md:mr-6 p-6 md:pt-15 rounded-[30px] text-white text-center text-lg md:text-2xl whitespace-normal">
                     We are Born To Love Outreaches, a <br></br>Christian charitable organisation aimed at helping those in need.<br></br>
                     We are rooted in the unshakeable truth that every person is created by God, for love and with a purpose.<br></br>
-                    Our mission is simple yet profound to share Christ's unconditional love through compassionate outreach, practical support, <br></br>and transformational community programs.
+                    Our mission is simple yet profound to share Christ&apos;s unconditional love through compassionate outreach, practical support, <br></br>and transformational community programs.
                 </div>
                 <div className="font-['Duplet'] bg-[rgba(0,0,0,0.81)] w-65 md:w-80 h-auto md:h-110 mb-2 md:mb-0 md:mr-6 p-6 md:pt-15 rounded-[30px] text-white text-center text-lg md:text-2xl whitespace-normal p-6">
-                    We believe that love is more than a feeling—it's an action.
+                    We believe that love is more than a feeling—it&apos;s an action.
                     Guided by the teachings of Jesus, we serve the vulnerable, uplift the
                     brokenhearted, and stand alongside those in need, regardless of background or circumstance.
                 </div>
