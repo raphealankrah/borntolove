@@ -5,7 +5,6 @@ export default function Header() {
     return (
         <div className="px-4 md:px-8 lg:px-24 mb-5 pt-4 flex flex-col">
             <div className="flex items-center justify-between">
-                {/* Logo at the far left */}
                 <div>
                     <Image src="/logo.svg" alt="outreaches logo" width={60} height={60} />
                 </div>

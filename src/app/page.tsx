@@ -3,6 +3,7 @@ import Header from "../../components/header";
 import FrontView from "../../components/frontview";
 import AboutUs from "../../components/AboutUs";
 import OurMission from "../../components/OurMission";
+import Footer from "../../components/Footer";
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
       <div>
         <OurMission />
       </div>
+      <Footer />
     </div>
   );
 }
